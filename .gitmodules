@@ -31,9 +31,6 @@
 [submodule "Graphics/Kuronons"]
 	path = Graphics/Kuronons
 	url = https://github.com/Kuronons/FZ_graphics.git
-[submodule "BadUSB/UNC0V3R3D-BadUSB"]
-	path = BadUSB/UNC0V3R3D-BadUSB
-	url = https://github.com/UNC0V3R3D/Flipper_Zero-BadUsb
 [submodule "BadUSB/atomiczsec-BadUSB"]
 	path = BadUSB/atomiczsec-BadUSB
 	url = https://github.com/atomiczsec/My-Payloads
@@ -73,3 +70,15 @@
 [submodule "BadUSB/BadGPT"]
 	path = BadUSB/BadGPT
 	url = https://github.com/ooovenenoso/BadUSB-GPT
+[submodule "NFC/Amiibo/Infinity-FalsePhilosopher"]
+	path = NFC/Amiibo/Infinity-FalsePhilosopher
+	url = https://github.com/FalsePhilosopher/Flipper-Infinity
+[submodule "BadUSB/CounterCrowdStrike"]
+	path = BadUSB/CounterCrowdStrike
+	url = https://github.com/ooovenenoso/CounterCrowdStrike
+[submodule "BadUSB/AbeNaws-BadUSB"]
+	path = BadUSB/AbeNaws-BadUSB
+	url = https://github.com/AbeNaws/Flipper-Zero-BadUsb-Scripts
+[submodule "BadUSB/Aleff-BadUSB"]
+	path = BadUSB/Aleff-BadUSB
+	url = https://github.com/aleff-github/my-flipper-shits/
